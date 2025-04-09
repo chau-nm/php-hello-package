@@ -4,11 +4,6 @@
         "php": ">=8.2"
     },
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "ChauNm\\PhpHelloPackage\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "chau-nm",
