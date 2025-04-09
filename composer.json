@@ -1,0 +1,18 @@
+{
+    "name": "chau-nm/php-hello-package",
+    "require": {
+        "php": ">=8.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ChauNm\\PhpHelloPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chau-nm",
+            "email": "chaunm.146.2001@gmail.com"
+        }
+    ]
+}
