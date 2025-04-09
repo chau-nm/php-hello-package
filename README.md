@@ -4,6 +4,6 @@ Test packagist
 
 # Install
 
-<pre>
-  composer require chau-nm/php-hello-package
-</pre>
+```
+composer require chau-nm/php-hello-package
+```
